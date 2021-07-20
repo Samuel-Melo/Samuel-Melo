@@ -2,16 +2,16 @@
   <div>
     <a href="https://github.com/Samuel-Melo">
       <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Samuel-Melo&show_icons=true&theme=gotham&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Melo&hide=html,css,java,shaderlab,kotlin,hlsl&theme=gotham">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Samuel-Melo&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Melo&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Melo&show_icons=true&locale=en&layout=compact&theme=gotham&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Melo&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Samuel-Melo&theme=gatham">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Samuel-Melo&theme=redical">
 </p> 
 
   
