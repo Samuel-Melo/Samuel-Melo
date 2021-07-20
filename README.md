@@ -70,7 +70,7 @@ Redes Sociais!
       
 <br>
 
-<div>
+<div align="center">
 
 <img height="25em" src="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white&link=mailto:https://www.instagram.com/zsamuel_meloz/"/>
 
