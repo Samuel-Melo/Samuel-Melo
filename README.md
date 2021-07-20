@@ -35,6 +35,8 @@
   
   <img align = "center" alt = "javascript" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg ">
   
+  <img align = "center" alt = "javascript" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg ">
+  
   </p>
     
  <img height = "150em" align = "right" alt = "Obito" src = "https://github.com/Samuel-Melo/Samuel-Melo/blob/main/rick.gif?raw=true" style = "max-width: 100%;">
