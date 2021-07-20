@@ -1,11 +1,12 @@
 ## <img height = "150em" align = "right" alt = "Obito" src = "https://github.com/Samuel-Melo/Samuel-Melo/blob/main/rick.gif?raw=true" style = "max-width: 100%;"/>
 ![](https://komarev.com/ghpvc/?username=Samuel-Melo&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=Samuel-Melo.Samuel-Melo)
 
-<a href="https://tarun-kamboj.github.io/"><img src="https://readme-typing-svg.herokuapp.com/?font=Zen+Tokyo+Zoo&color=E1E1E1&size=50&center=true&vCenter=true&width=1000&height=100&lines=OLÁ+%F0%9F%91%8B+MEU+NOME+É+SAMUEL.;I+AM+A+PYTHON+DEVELOPER;AND+A+FULL+STACK+WEB+DEVELOPER.;FEEL+FREE+TO+GET+IN+TOUCH+%F0%9F%98%84"></a><br><br>
-  
-  <br>
-  <br>
-  <br>
+<br>
+<br>
+<br>
+
+<a href="https://tarun-kamboj.github.io/"><img src="https://readme-typing-svg.herokuapp.com/?font=Zen+Tokyo+Zoo&color=E1E1E1&size=50&center=true&vCenter=true&width=1000&height=100&lines=OLÁ+%F0%9F%91%8B+MEU+NOME+É+SAMUEL.;EU+SOU+UM+DESENVOLVEDOR+JAVA;E+TAMBÉM+FULL+STACK+WEB+DEVELOPER.;FEEL+FREE+TO+GET+IN+TOUCH+%F0%9F%98%84"></a>
+
   <br>
   <br>
   <br>
@@ -29,7 +30,7 @@
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Samuel-Melo&theme=redical"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=Samuel-Melo&theme=dracula"/>
 </p> 
 
     
