@@ -21,7 +21,7 @@
   <div>
     <a href="https://github.com/Samuel-Melo">
       <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Samuel-Melo&show_icons=true&theme=radical&line_height=27&background=00000000&hide_border=true&stroke=878787&ring=40c463&fire=40c463&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787"/>
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Samuel-Melo&show_icons=true&line_height=27&background=00000000&hide_border=true&stroke=878787&ring=40c463&fire=40c463&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787"/>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Melo&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical"/>
 </p>
 
