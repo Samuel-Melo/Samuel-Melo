@@ -72,13 +72,8 @@ Redes Sociais!
 
 <div align="center">
 
-  <img href="https://www.instagram.com/zsamuel_meloz/" target="_blank" height="25em" src="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white"</a>
-  
-<a href="https://www.instagram.com/zsamuel_meloz/" target="_blank"><img height="25em" src="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-<a href="mailto:samueldemelo43@gmail.com" target="_blank"><img height="25em" src="https://img.shields.io/badge/-Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white"/></a>
- 
-<a href="https://www.linkedin.com/in/samuel-melo-/" target="_blank"><img height="25em" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/zsamuel_meloz/" target="_blank"><img height="25em" src="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white"/></a><a href="mailto:samueldemelo43@gmail.com" target="_blank"><img height="25em" src="https://img.shields.io/badge/-Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/samuel-melo-/" target="_blank"><img height="25em" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
  
 <a href="https://twitter.com/_SamuelMelo_" target="_blank"><img height="25em" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white"/></a>
  
