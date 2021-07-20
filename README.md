@@ -73,6 +73,8 @@
   <img align = "center" alt = "Linux" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg "/>
  
  <br>
+ <br>
+ <br>
     
  <img align = "center" alt = "Gimp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg "/>
  
