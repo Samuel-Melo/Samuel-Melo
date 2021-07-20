@@ -63,6 +63,6 @@
   <br>
   <br>
   
-  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  <img height="120" alt="Obrigado por visitar meu perfil. Volte sempre" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 </div>
