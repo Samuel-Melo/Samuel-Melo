@@ -75,16 +75,6 @@
   <img align = "center" alt = "Linux" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg "/>
  
  <img align = "center" alt = "Debian" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg "/>
- 
- <br>
- <br>
- <br>
-    
- <img align = "center" alt = "Gimp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg "/>
- 
-<img align = "center" alt = "Linux" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg "/>
- 
-<img align = "center" alt = "Photoshop" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg "/>
     
   </p>
 
