@@ -1,4 +1,6 @@
 ##  Olá, eu sou Samuel de Melo! 🤝 <a href="" target= "_blank"> <img height = "24em" src = "https://visitor-badge.glitch.me/badge?page_id=Samuel-Melo" target = "_ blank"> </a>
+
+![](https://komarev.com/ghpvc/?username=Samuel-Melo&color=brightgreen)
   <div>
     <a href="https://github.com/Samuel-Melo">
       <p align = "center">
@@ -61,6 +63,6 @@
   <br>
   <br>
   
-  ![Animação](https://komarev.com/ghpvc/?username=Samuel-Melo&color=brightgreen)
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 </div>
