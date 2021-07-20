@@ -15,6 +15,8 @@
 </p> 
 
   
+  <p align="center">
+    
   <div style = "display: inline_block">
 
   <br>
@@ -34,6 +36,7 @@
  <img height = "150em" align = "right" alt = "Obito" src = "https://media.giphy.com/media/MfGOjkEtoyMgFcxCSz/giphy.gif" style = "max-width: 100%;">
 
 </div>
+      </p>
 
   ##
 
