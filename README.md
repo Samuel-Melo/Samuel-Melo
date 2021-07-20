@@ -24,29 +24,29 @@
     
   <p align="center">
     
-  <img align = "center" alt = "Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "/>
+  <img align = "center" alt = "Python" height = "50" width = "60" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "/>
 
-  <img align = "center" alt = "Java" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg "/>
+  <img align = "center" alt = "Java" height = "50" width = "60" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg "/>
 
-  <img align = "center" alt = "Springboot" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg "/>
+  <img align = "center" alt = "Springboot" height = "50" width = "60" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg "/>
 
- <img align = "center" alt = "Mysql" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg "/>
+ <img align = "center" alt = "Mysql" height = "50" width = "60" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg "/>
 
-  <img align = "center" alt = "Git" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg "/>
+  <img align = "center" alt = "Git" height = "50" width = "60" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg "/>
 
-  <img align = "center" alt = "Html" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg "/>
+  <img align = "center" alt = "Html" height = "50" width = "60" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg "/>
 
-  <img align = "center" alt = "Css" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg "/>
+  <img align = "center" alt = "Css" height = "50" width = "60" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg "/>
   
-  <img align = "center" alt = "Javascript" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg "/>
+  <img align = "center" alt = "Javascript" height = "50" width = "60" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg "/>
   
- <img align = "center" alt = "Windows" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg "/>
+ <img align = "center" alt = "Windows" height = "50" width = "60" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg "/>
     
- <!--<img align = "center" alt = "Bash" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg "/>-->
+ <!--<img align = "center" alt = "Bash" height = "50" width = "60" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg "/>-->
     
-  <img align = "center" alt = "Linux" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg "/>
+  <img align = "center" alt = "Linux" height = "50" width = "60" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg "/>
  
- <img align = "center" alt = "Debian" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg "/>
+ <img align = "center" alt = "Debian" height = "50" width = "60" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg "/>
     
   </p>
 
