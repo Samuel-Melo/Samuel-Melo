@@ -23,7 +23,7 @@
 
   <div>
  <p align = "center">
-  ![wakatimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=samuelMelo&show_icons=true&line_height=27&theme=chartreuse-dark&bg_color=00000000&color=878787&line=40c463&point=00000000&area=true&area_color=40c463&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=samuelMelo&show_icons=true&line_height=27&theme=chartreuse-dark&bg_color=00000000&color=878787&line=40c463&point=00000000&area=true&area_color=40c463&hide_border=true"/>
 <br>
 <img  src = "https://github-readme-stats.vercel.app/api?username=Samuel-Melo&show_icons=true&line_height=27&theme=chartreuse-dark&bg_color=00000000&color=878787&line=40c463&point=00000000&area=true&area_color=40c463&hide_border=true"/>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Melo&hide=html,css,java,javascript,mysql&theme=chartreuse-dark&bg_color=00000000&color=878787&line=40c463&point=00000000&area=true&area_color=40c463&hide_border=true"/>
