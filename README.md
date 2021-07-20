@@ -72,7 +72,7 @@ Redes Sociais!
 
 <div align="center">
 
-<a href="mailto:samueldemelo43@gmail.com"><img height="25em" src="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white&"/></a>
+<a href="mailto:samueldemelo43@gmail.com"><img height="25em" src="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white&link="mailto:samueldemelo43@gmail.com"/></a>
 
 <img height="25em" src="https://img.shields.io/badge/-Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samueldemelo43@gmail.com"/>
  
