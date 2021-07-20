@@ -14,12 +14,12 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=Samuel-Melo&theme=redical">
 </p> 
 
-  
-  <p align="center">
     
   <div style = "display: inline_block">
 
   <br>
+    
+  <p align="center">
 
   <img align = "center" alt = "Java" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg ">
 
@@ -34,9 +34,9 @@
   <img align = "center" alt = "css" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
 
  <img height = "150em" align = "right" alt = "Obito" src = "https://media.giphy.com/media/MfGOjkEtoyMgFcxCSz/giphy.gif" style = "max-width: 100%;">
-
+</p>
 </div>
-      </p>
+      
 
   ##
 
