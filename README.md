@@ -80,7 +80,7 @@
  
 <img align = "center" alt = "Linux" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg "/>
  
-<img align = "center" alt = "Photoshop" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg "/>
+<img align = "center" alt = "Photoshop" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg "/>
     
   </p>
 
