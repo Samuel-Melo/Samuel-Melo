@@ -1,0 +1,40 @@
+<svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+        .obg {
+          height: 50px;	
+          overflow: hidden;
+          position: relative;
+        }
+        .obg strong {
+          font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
+          color: purple;
+          position: absolute;
+          font-size: 1.2em;
+          width: 100%;
+          height: 100%;
+          margin: 0;
+          line-height: 50px;
+          text-align: center;
+
+          transform:translateX(100%);
+
+          animation: obg 15s linear infinite;
+        }
+
+        @keyframes obg {
+          0%   { 
+            transform: translateX(100%); 		
+          }
+          100% { 
+            transform: translateX(-80%); 
+          }
+        }
+      </style>
+      <div class="obg">
+        <strong>Obrigado por visitar meu perfil! Volte sempre!</strong>
+      </div>
+	</div>
+	</foreignObject>
+</svg>
