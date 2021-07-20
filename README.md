@@ -1,8 +1,10 @@
 ## ![](https://komarev.com/ghpvc/?username=Samuel-Melo&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=Samuel-Melo.Samuel-Melo)
   
-  <h2 align="rigth">
+  <h2 align="center">
   Estatistícas!
   </h2>
+  
+  <br>
 
   <div>
     <a href="https://github.com/Samuel-Melo">
@@ -22,6 +24,10 @@
     
   <div style = "display: inline_block">
 
+  <h2 align="center">
+  Tecnologias!
+  </h2>
+    
   <br>
     
   <p align="center">
@@ -57,6 +63,11 @@
 <br>
 <br>
 <br>
+      
+<h2 align="center">
+Redes Sociais!
+</h2>
+      
 <br>
 
 <div> 
