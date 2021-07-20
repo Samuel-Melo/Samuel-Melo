@@ -68,6 +68,6 @@
   <br>
   <br>
   
-  <img height="120" alt="Obrigado por visitar meu perfil! Volte sempre!" width="100%" src="https://raw.githubusercontent.com/Samuel-Melo/Samuel-Melo/a36b0438d4641d03399be40192eb599ab0be6d90/obg.svg" />
+  <img height="120" alt="Obrigado por visitar meu perfil! Volte sempre!" width="100%" src="https://raw.githubusercontent.com/Samuel-Melo/Samuel-Melo/obg.svg" />
 
 </div>
