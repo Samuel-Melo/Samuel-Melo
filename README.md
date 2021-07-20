@@ -92,9 +92,5 @@ Redes Sociais!
 
 
 <!-- <img height="25em" src="https://img.shields.io/badge/-Linktree-65da65?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/josevictorsantos"/> -->
-     
-  <br>
- 
-  <img height="120" alt="Obrigado por visitar meu perfil! Volte sempre!" width="100%" src="https://raw.githubusercontent.com/Samuel-Melo/Samuel-Melo/dfb7673104464936b2598243c89611df68ad00eb/obg.svg" />
 
 </div>
