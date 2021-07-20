@@ -1,5 +1,5 @@
 ## ![](https://komarev.com/ghpvc/?username=Samuel-Melo&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=Samuel-Melo.Samuel-Melo)
-  
+  </html>
   <head>
   <script>
     function insta() {
@@ -7,6 +7,7 @@
     }
   </script>
   </head>
+  </html>
   <h2 align="center">
   Estatistícas!
   </h2>
