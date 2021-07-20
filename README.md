@@ -52,6 +52,10 @@
 
 </div>
   
+  <br>
+  <br>
+  <br>
+  
   <h2 align="center">
   Estatistícas!
   </h2>
