@@ -1,5 +1,9 @@
 ##  <img height = "150em" align = "right" alt = "Obito" src = "https://github.com/Samuel-Melo/Samuel-Melo/blob/main/rick.gif?raw=true" style = "max-width: 100%;"> ![](https://komarev.com/ghpvc/?username=Samuel-Melo&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=Samuel-Melo.Samuel-Melo)
   
+  <br>
+  <br>
+  <br>
+  
   <h2 align="center">
   Estatistícas!
   </h2>
