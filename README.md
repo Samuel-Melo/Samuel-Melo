@@ -4,8 +4,11 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
-<a href="https://tarun-kamboj.github.io/"><img src="https://readme-typing-svg.herokuapp.com/?font=Zen+Tokyo+Zoo&color=E1E1E1&size=50&center=true&vCenter=true&width=1000&height=100&lines=OLÁ+%F0%9F%91%8B+MEU+NOME+É+SAMUEL.;EU+SOU+UM+DESENVOLVEDOR+JAVA;E+TAMBÉM+FULL+STACK+WEB+DEVELOPER.;FEEL+FREE+TO+GET+IN+TOUCH+%F0%9F%98%84"></a>
+<a href="https://tarun-kamboj.github.io/"><img src="https://readme-typing-svg.herokuapp.com/?font=Zen+Tokyo+Zoo&color=E1E1E1&size=50&center=true&vCenter=true&width=1000&height=100&lines=OLÁ+%F0%9F%91%8B+MEU+NOME+É+SAMUEL.;EU+SOU+UM+DESENVOLVEDOR+JAVA;E+WEB+FULL+STACK.;FEEL+FREE+TO+GET+IN+TOUCH+%F0%9F%98%84"></a>
 
   <br>
   <br>
