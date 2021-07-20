@@ -20,7 +20,7 @@
 
           transform:translateX(100%);
 
-          animation: obg 15s linear infinite;
+          animation: obg 20s linear infinite;
         }
 
         @keyframes obg {
