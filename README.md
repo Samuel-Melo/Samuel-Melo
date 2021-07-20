@@ -71,6 +71,12 @@
  <img align = "center" alt = "Windows" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg "/>
     
   <img align = "center" alt = "Linux" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg "/>
+ 
+ <br>
+    
+ <img align = "center" alt = "Gimp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg "/>
+ 
+<img align = "center" alt = "Linux" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg "/>
   
   </p>
 
