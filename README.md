@@ -70,22 +70,20 @@ Redes Sociais!
       
 <br>
 
-<div> 
-<a href="https://www.linkedin.com/in/samuel-melo-/" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5?style = for-the-badge & logo = linkedin & logoColor = white" target="_ blank "> </a> 
-<br>
-<br>
-<a href = "mailto:samueldemelo43@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target ="_blank"> </a>
-<a href="https://youtube.com/channel/UCGgVPXc4RQpZawenC642hSA" target="_blank"> <img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target = "_ blank" > </a>
-  
-<!--
+<div>
 
-<a href="https://www.instagram.com/#/" target="_blank"> <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for -the-badge & logo = instagram & logoColor = white "target =" _ blank "> </a> 
+<img height="25em" src="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white&link=mailto:https://www.instagram.com/zsamuel_meloz/"/>
 
-<a href="https://linktr.ee/#/" target= "_blank"> <img src = "https://img.shields.io/badge/linktree-65da65?style=for-the-badge&logo= linktree & logoColor = white "target =" _ blank "> </a> <br>
-  
-<a href="link" target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target = "_blank "> </a>
+<img height="25em" src="https://img.shields.io/badge/-Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samueldemelo43@gmail.com"/>
+ 
+<img height="25em" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-melo-/"/>
+ 
+<img height="25em" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_SamuelMelo_"/>
+ 
+<img height="25em" src="https://img.shields.io/badge/-YouTube-B2071D?style=flat-square&logo=YouTube&logoColor=white&link=https://youtube.com/channel/UCGgVPXc4RQpZawenC642hSA"/>
 
--->
+<!-- <img height="25em" src="https://img.shields.io/badge/-Linktree-65da65?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/josevictorsantos"/> -->
+     
   <br>
  
   <img height="120" alt="Obrigado por visitar meu perfil! Volte sempre!" width="100%" src="https://raw.githubusercontent.com/Samuel-Melo/Samuel-Melo/dfb7673104464936b2598243c89611df68ad00eb/obg.svg" />
