@@ -49,7 +49,7 @@
   ##
 
 <div> 
-<a href="https://www.linkedin.com/in/samuel-melo-/" height = "50" width = "80" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5?style = for-the-badge & logo = linkedin & logoColor = white" target="_ blank "> </a> 
+<a href="https://www.linkedin.com/in/samuel-melo-/" height = "200" width = "200" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5?style = for-the-badge & logo = linkedin & logoColor = white" target="_ blank "> </a> 
   
 <a href = "mailto:samueldemelo43@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target ="_blank"> </a>
 <a href="https://youtube.com/channel/UCGgVPXc4RQpZawenC642hSA" target="_blank"> <img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target = "_ blank" > </a>
