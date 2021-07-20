@@ -72,9 +72,9 @@ Redes Sociais!
 
 <div align="center">
 
-<button><img height="25em" src="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white&" href="mailto:https://www.instagram.com/zsamuel_meloz/"/></button>
+<a href="mailto:samueldemelo43@gmail.com"><img height="25em" src="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white&"/></a>
 
-<img height="25em" src="https://img.shields.io/badge/-Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white&" href="mailto:samueldemelo43@gmail.com"/>
+<img height="25em" src="https://img.shields.io/badge/-Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samueldemelo43@gmail.com"/>
  
 <img height="25em" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&" href="https://www.linkedin.com/in/samuel-melo-/"/>
  
