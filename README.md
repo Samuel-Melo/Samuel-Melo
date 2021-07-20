@@ -1,4 +1,4 @@
-## <img height = "150em" align = "right" alt = "Obito" src = "https://github.com/Samuel-Melo/Samuel-Melo/blob/main/rick.gif?raw=true" style = "max-width: 100%;">
+## <img height = "150em" align = "right" alt = "Obito" src = "https://github.com/Samuel-Melo/Samuel-Melo/blob/main/rick.gif?raw=true" style = "max-width: 100%;"/>
 ![](https://komarev.com/ghpvc/?username=Samuel-Melo&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=Samuel-Melo.Samuel-Melo)
   
   <br>
@@ -14,8 +14,8 @@
   <div>
     <a href="https://github.com/Samuel-Melo">
       <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Samuel-Melo&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Melo&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Samuel-Melo&show_icons=true&theme=radical&line_height=27"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Melo&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical"/>
 </p>
 
 <p align = "center">
@@ -23,7 +23,7 @@
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Samuel-Melo&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Samuel-Melo&theme=redical"/>
 </p> 
 
     
@@ -37,28 +37,30 @@
     
   <p align="center">
     
-  <img align = "center" alt = "Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg ">
+  <img align = "center" alt = "Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "/>
 
-  <img align = "center" alt = "Java" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg ">
+  <img align = "center" alt = "Java" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg "/>
 
-  <img align = "center" alt = "Springboot" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg ">
-<!-- plain -->
- <img align = "center" alt = "Mysql" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg ">
+  <img align = "center" alt = "Springboot" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg "/>
 
-  <img align = "center" alt = "Git" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg ">
+ <img align = "center" alt = "Mysql" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg "/>
 
-  <img align = "center" alt = "Html" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
+  <img align = "center" alt = "Git" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg "/>
 
-  <img align = "center" alt = "Css" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
+  <img align = "center" alt = "Html" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg "/>
+
+  <img align = "center" alt = "Css" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg "/>
   
-  <img align = "center" alt = "Javascript" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
+  <img align = "center" alt = "Javascript" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg "/>
   
-  <img align = "center" alt = "Linux" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg ">
+  <img align = "center" alt = "Linux" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg "/>
   
   </p>
 
 </div>
       
+<br>
+<br>
 <br>
 
 <h2 align="center">
