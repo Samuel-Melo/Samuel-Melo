@@ -1,6 +1,4 @@
-##  Olá, eu sou Samuel de Melo! 🤝 <a href="" target= "_blank"> <img height = "24em" src = "https://visitor-badge.glitch.me/badge?page_id=Samuel-Melo" target = "_ blank"> </a>
-
-![](https://komarev.com/ghpvc/?username=Samuel-Melo&color=brightgreen)
+##  Olá, eu sou Samuel de Melo! 🤝 <a href="" target= "_blank"> <img height = "24em" src = "https://visitor-badge.glitch.me/badge?page_id=Samuel-Melo" src="https://komarev.com/ghpvc/?username=Samuel-Melo&color=brightgreen" target = "_ blank"> </a>
   <div>
     <a href="https://github.com/Samuel-Melo">
       <p align = "center">
