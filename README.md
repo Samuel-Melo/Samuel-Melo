@@ -1,4 +1,4 @@
-##  Olá, eu sou Samuel de Melo! 🤝:. <a href="" target= "_blank"> <img height = "24em" src = "https://visitor-badge.glitch.me/badge?page_id=Samuel-Melo" target = "_ blank"> </a>
+##  Olá, eu sou Samuel de Melo! 🤝 <a href="" target= "_blank"> <img height = "24em" src = "https://visitor-badge.glitch.me/badge?page_id=Samuel-Melo" target = "_ blank"> </a>
   <div>
     <a href="https://github.com/Samuel-Melo">
       <p align = "center">
@@ -54,6 +54,9 @@
   
 <a href="link" target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target = "_blank "> </a>
 -->
+  <br>
+  <br>
+  <br>
   <br>
   <br>
   <br>
