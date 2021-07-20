@@ -23,7 +23,6 @@
 
   <div>
   
- [![wakatime](https://wakatime.com/badge/github/Samuel-Melo/CodigosJava.svg)](https://wakatime.com/badge/github/Samuel-Melo/CodigosJava)
  <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=samuelMelo&show_icons=true&line_height=27&theme=chartreuse-dark&bg_color=00000000&color=878787&line=40c463&point=00000000&area=true&area_color=40c463&hide_border=true"/>
 <br>
