@@ -19,7 +19,8 @@
   <h2 align="center">
   Tecnologias!
   </h2>
-    
+  
+  <br>
   <br>
     
   <p align="center">
