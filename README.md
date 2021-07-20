@@ -20,22 +20,24 @@
   <br>
     
   <p align="center">
+    
+  <img align = "center" alt = "Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg ">
 
   <img align = "center" alt = "Java" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg ">
 
   <img align = "center" alt = "Springboot" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg ">
 <!-- plain -->
- <img align = "center" alt = "mysql" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg ">
+ <img align = "center" alt = "Mysql" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg ">
 
-  <img align = "center" alt = "git" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg ">
+  <img align = "center" alt = "Git" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg ">
 
-  <img align = "center" alt = "html" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
+  <img align = "center" alt = "Html" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
 
-  <img align = "center" alt = "css" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
+  <img align = "center" alt = "Css" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
   
-  <img align = "center" alt = "javascript" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
+  <img align = "center" alt = "Javascript" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
   
-  <img align = "center" alt = "javascript" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg ">
+  <img align = "center" alt = "Linux" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg ">
   
   </p>
     
