@@ -22,7 +22,7 @@
     <a href="https://github.com/Samuel-Melo">
       <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=Samuel-Melo&show_icons=true&line_height=27&theme=dracula&bg_color=00000000&color=878787&line=40c463&point=00000000&area=true&area_color=40c463&hide_border=true"/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Melo&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Melo&hide=html,css,java,shaderlab,kotlin,hlsl&theme=dracula&bg_color=00000000&color=878787&line=40c463&point=00000000&area=true&area_color=40c463&hide_border=true"/>
 </p>
 
 <p align = "center">
