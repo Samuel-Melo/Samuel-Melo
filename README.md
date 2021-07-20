@@ -1,7 +1,7 @@
 ##  Olá, eu sou Samuel de Melo! 🤝:. <a href="" target= "_blank"> <img height = "24em" src = "https://visitor-badge.glitch.me/badge?page_id=Samuel-Melo" target = "_ blank"> </a>
   <div>
     <a href="https://github.com/Samuel-Melo">
-      <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Samuel-Melo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+      <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Samuel-Melo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
       <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Melo&layout=compact&langs_count=16&theme=gotham" />
   </div>
   
