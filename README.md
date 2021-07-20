@@ -68,7 +68,7 @@
   
   <img align = "center" alt = "Javascript" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg "/>
   
- <img align = "center" alt = "Windows" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg "/>
+ <img align = "center" alt = "Windows" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg "/>
     
   <img align = "center" alt = "Linux" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg "/>
   
