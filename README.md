@@ -1,9 +1,19 @@
 ##  Olá, eu sou Samuel de Melo! 🤝:. <a href="" target= "_blank"> <img height = "24em" src = "https://visitor-badge.glitch.me/badge?page_id=Samuel-Melo" target = "_ blank"> </a>
   <div>
     <a href="https://github.com/Samuel-Melo">
-      <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Samuel-Melo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
-      <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Melo&layout=compact&langs_count=16&theme=gotham" />
-  </div>
+      <p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Samuel-Melo&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Melo&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Melo&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Samuel-Melo&theme=redical">
+</p> 
+
   
   <div style = "display: inline_block">
 
