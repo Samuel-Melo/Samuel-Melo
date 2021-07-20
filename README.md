@@ -72,7 +72,7 @@ Redes Sociais!
 
 <div align="center">
 
-  <a href="https://www.instagram.com/zsamuel_meloz/" target="_blank" height="25em" src="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white"</a>
+  <a href="https://www.instagram.com/zsamuel_meloz/" target="_blank" height="25em" url="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white"</a>
   
 <a href="https://www.instagram.com/zsamuel_meloz/" target="_blank"><img height="25em" src="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
