@@ -35,7 +35,7 @@
   
   </p>
     
- <img height = "150em" align = "right" alt = "Obito" src = "https://github.com/Samuel-Melo/Samuel-Melo/blob/main/rickandmorty.gif?raw=true" style = "max-width: 100%;">
+ <img height = "150em" align = "right" alt = "Obito" src = "https://github.com/Samuel-Melo/Samuel-Melo/blob/main/rick.gif?raw=true" style = "max-width: 100%;">
 
 </div>
       
