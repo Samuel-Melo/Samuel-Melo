@@ -1,4 +1,4 @@
-## <a align = "center"> ![](https://komarev.com/ghpvc/?username=Samuel-Melo&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=Samuel-Melo.Samuel-Melo) </a>
+## <center>![](https://komarev.com/ghpvc/?username=Samuel-Melo&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=Samuel-Melo.Samuel-Melo)</center>
   <div>
     <a href="https://github.com/Samuel-Melo">
       <p align = "center">
