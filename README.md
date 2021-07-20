@@ -36,7 +36,7 @@
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Samuel-Melo&theme=dracula&bg_color=00000000&color=878787&line=40c463&point=00000000&area=true&area_color=40c463&hide_border=true"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=Samuel-Melo&theme=dracula&bg_color=00000000&color=878787&line=00FF00&point=00000000&area=true&area_color=00FF00&hide_border=true"/>
 </p> 
 
     
