@@ -61,9 +61,9 @@
   </h2>
   
   <br>
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samuelMelo)(https://github.com/anuraghazra/github-readme-stats)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samuelMelo)
   <div>
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samuelMelo)](https://github.com/anuraghazra/github-readme-stats)
+  
  <p align = "center">
    
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=samuelMelo&show_icons=true&line_height=27&theme=chartreuse-dark&bg_color=00000000&text_color=878787&line=40c463&point=00000000&area=true&area_color=40c463&hide_border=true" width="60%"/>
