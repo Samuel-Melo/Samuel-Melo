@@ -70,7 +70,8 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=samuelMelo&show_icons=true&line_height=27&theme=chartreuse-dark&bg_color=00000000&text_color=878787&line=40c463&point=00000000&area=true&area_color=40c463&hide_border=true(https://github.com/anuraghazra/github-readme-stats)" width="50%"/>
 <br>
 <img src = "https://github-readme-stats.vercel.app/api?username=Samuel-Melo&show_icons=true&line_height=27&theme=chartreuse-dark&bg_color=00000000&icon_color=006400&text_color=878787&line=40c463&point=00000000&area=true&area_color=40c463&hide_border=true(https://github.com/anuraghazra/github-readme-stats)"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Melo&theme=chartreuse-dark&bg_color=00000000&text_color=878787&line=40c463&point=00000000&area=true&area_color=40c463&hide_border=true(https://github.com/anuraghazra/github-readme-stats)"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=Samuel-Melo&show_icons=true&theme=chartreuse-dark&bg_color=00000000&text_color=878787&line=40c463&point=00000000&area=true&area_color=40c463&hide_border=true(https://github.com/anuraghazra/github-readme-stats)"/>
+   
 </p>
   
 <br>
