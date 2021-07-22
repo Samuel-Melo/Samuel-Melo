@@ -73,7 +73,7 @@
 <br>
 <br>
    
-<img src = "https://github-readme-stats.vercel.app/api?username=Samuel-Melo&show_icons=true&line_height=27&theme=chartreuse-dark&bg_color=00000000&icon_color=006400&text_color=878787&point=00000000&&hide_border=true"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=Samuel-Melo&show_icons=true&theme=chartreuse-dark&bg_color=00000000&icon_color=006400&text_color=878787&point=00000000&&hide_border=true"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Melo&theme=chartreuse-dark&bg_color=00000000&text_color=878787&hide_border=true(https://github.com/anuraghazra/github-readme-stats)"/>
    
 </p>
@@ -88,7 +88,7 @@
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Samuel-Melo&bg_color=00000000&color=878787&line=00FF00&point=00000000&area=true&area_color=00FF00&hide_border=true(https://github.com/ashutosh00710/github-readme-activity-graph)"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=Samuel-Melo&bg_color=00000000&color=878787&point=00000000&area=true&area_color=00FF00&hide_border=true(https://github.com/ashutosh00710/github-readme-activity-graph)"/>
 </p> 
       
 <br>
