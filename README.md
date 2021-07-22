@@ -1,5 +1,9 @@
 ## <img height = "150em" align = "right" alt = "Obito" src = "https://github.com/Samuel-Melo/Samuel-Melo/blob/main/rick.gif?raw=true" style = "max-width: 100%;"/>
-![](https://komarev.com/ghpvc/?username=Samuel-Melo&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=Samuel-Melo.Samuel-Melo)
+ <img src="https://badges.pufler.dev/visits/Samuel-Melo"/> 
+ <img src="https://komarev.com/ghpvc/?username=Samuel-Melo&color=brightgreen"/> 
+ <img src="https://badges.pufler.dev/years/Samuel-Melo"/>
+ <img src="https://badges.pufler.dev/repos/Samuel-Melo"/>
+ <img src="https://badges.pufler.dev/commits/monthly/Samuel-Melo" />
 
 <br>
 <br>
