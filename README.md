@@ -17,7 +17,7 @@
   <div style = "display: inline_block">
 
   <h2 align="center">
-  Tecnologias!
+  Linguagens e Ferramentas!
   </h2>
   
   <br>
