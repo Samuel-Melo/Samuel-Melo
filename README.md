@@ -84,11 +84,11 @@
 <br>
   
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Melo&show_icons=true&locale=en&layout=compact&background=00000000&hide_border=true&stroke=878787&ring=00FF00&fire=00FF00&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787(https://git.io/streak-stats) " />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Melo&show_icons=true&locale=en&layout=compact&background=00000000&hide_border=true&stroke=878787&ring=00FF00&fire=00FF00&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787(https://git.io/streak-stats)" />
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Samuel-Melo&bg_color=00000000&line=00FF00&color=878787&point=00000000&area=true&area_color=00FF00&hide_border=true(https://github.com/ashutosh00710/github-readme-activity-graph) "/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=Samuel-Melo&bg_color=00000000&line=00FF00&color=878787&point=00000000&area=true&area_color=00FF00&hide_border=true(https://github.com/ashutosh00710/github-readme-activity-graph)"/>
 </p> 
       
 <br>
