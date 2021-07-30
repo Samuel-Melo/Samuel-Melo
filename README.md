@@ -37,7 +37,7 @@
   
   <img align = "center" alt = "GitHub" height = "50" width = "60" src="https://github.com/CR10L02k/imagens/blob/main/github/github.svg"/>
  
-  <img align = "center" alt = "Eclipse" height = "50" width = "60" src="https://github.com/CR10L02k/imagens/blob/main/icons/eclipse/eclipse.svg"/>
+  <img align = "center" alt = "Eclipse" height = "50" width = "40" src="https://github.com/CR10L02k/imagens/blob/main/icons/eclipse/eclipse.svg"/>
  
  <img align = "center" alt = "VsCode" height = "50" width = "60" src="https://github.com/CR10L02k/imagens/blob/main/icons/vscode/vscode-original.svg"/>
 
