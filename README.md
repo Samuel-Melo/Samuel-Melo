@@ -34,6 +34,12 @@
  <img align = "center" alt = "Mysql" height = "50" width = "60" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg "/>
 
   <img align = "center" alt = "Git" height = "50" width = "60" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg "/>
+  
+  <img align = "center" src="https://github.com/CR10L02k/imagens/blob/main/github/github.svg"/>
+ 
+  <img align = "center" src="https://github.com/CR10L02k/imagens/blob/main/icons/eclipse/eclipse.svg"/>
+ 
+ <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/vscode/vscode-original.svg"/>
 
   <img align = "center" alt = "Html" height = "50" width = "60" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg "/>
 
