@@ -41,11 +41,6 @@
   
 <br>
 <br>
-  
-<h2 align="center">
-    Estatistícas!
-</h2>
-  
 <br>
 
 <div>
@@ -71,8 +66,8 @@
     <br>
     <br>
     <h2 align="center">
-        Redes Sociais!
-    </h2> 
+        Contato! <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="20">
+    </h2>
     <br>
 </div>
 <div align="center">
