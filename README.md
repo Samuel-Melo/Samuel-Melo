@@ -26,7 +26,7 @@
         <img align = "center" alt = "Springboot" height = "40" width = "50" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg "/>
         <img align = "center" alt = "Mysql" height = "40" width = "50" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg "/>
         <img align = "center" alt = "Git" height = "40" width = "50" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg "/>
-        <img align = "center" alt = "GitHub" height = "40" width = "50" src="https://github.com/CR10L02k/imagens/blob/main/icons/github/github-original.svg"/>
+        <img align = "center" alt = "GitHub" height = "40" width = "50" src="https://github.com/CR10L02k/imagens/blob/main/github/github.svg"/>
         <img align = "center" alt = "Eclipse" height = "40" width = "40" src="https://github.com/CR10L02k/imagens/blob/main/icons/eclipse/eclipse.svg"/>
         <img align = "center" alt = "VsCode" height = "40" width = "50" src="https://github.com/CR10L02k/imagens/blob/main/icons/vscode/vscode-original.svg"/>
         <img align = "center" alt = "Html" height = "40" width = "50" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg "/>
