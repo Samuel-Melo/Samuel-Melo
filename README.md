@@ -49,8 +49,8 @@
         <br>
         <br>
         <br>
-        <img src = "https://github-readme-stats.vercel.app/api?username=Samuel-Melo&show_icons=true&theme=chartreuse-dark&bg_color=00000000&icon_color=006400&text_color=878787&point=00000000&&hide_border=true "/>
-        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Melo&theme=chartreuse-dark&bg_color=00000000&text_color=878787&hide_border=true(https://github.com/anuraghazra/github-readme-stats) "/>
+        <img src = "https://github-readme-stats.vercel.app/api?username=Samuel-Melo&show_icons=true&theme=chartreuse-dark&bg_color=00000000&icon_color=006400&text_color=878787&point=00000000&&hide_border=true"/>
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Melo&theme=chartreuse-dark&bg_color=00000000&text_color=878787&hide_border=true(https://github.com/anuraghazra/github-readme-stats)"/>
     </p>
     <br>
     <br>
