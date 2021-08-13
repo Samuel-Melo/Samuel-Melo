@@ -45,7 +45,7 @@
 
 <div>
     <p align = "center">   
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=samuelMelo&layout=compact&theme=chartreuse-dark&bg_color=00000000&text_color=878787&hide_border=true(https://github.com/anuraghazra/github-readme-stats)" width="85%" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=samulMelo&layout=compact&theme=chartreuse-dark&bg_color=00000000&text_color=878787&hide_border=true(https://github.com/anuraghazra/github-readme-stats)" width="85%" />
         <br>
         <br>
         <br>
