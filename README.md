@@ -23,7 +23,7 @@
     <p align="center">
         <img align = "center" alt = "Python" height = "40" width = "50" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "/>
         <img align = "center" alt = "Java" height = "40" width = "50" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg "/>
-         <img align = "center" alt = "Php" height = "40" width = "50" src = "https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/php.svg "/>
+         <img align = "center" alt = "Php" height = "40" width = "50" src = "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg"/>
         <img align = "center" alt = "Springboot" height = "40" width = "50" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg "/>
         <img align = "center" alt = "Mysql" height = "40" width = "50" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg "/>
         <img align = "center" alt = "Git" height = "40" width = "50" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg "/>
