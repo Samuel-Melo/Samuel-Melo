@@ -8,7 +8,7 @@
 <br>
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Zen+Tokyo+Zoo&color=878787&size=50&center=true&vCenter=true&width=1000&height=100&lines=OLÁ+%F0%9F%91%8B+MEU+NOME+É+SAMUEL.;EU+SOU+DESENVOLVEDOR+JAVA;E+WEB+FULL+STACK.;OBRIGADO+PELA+VISITA+%F0%9F%98%84.;VOLTE+SEMPRE+%F0%9F%98%83.">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Zen+Tokyo+Zoo&color=878787&size=50&center=true&vCenter=true&width=1000&height=100&lines=OLÁ+%F0%9F%91%8B+MEU+NOME+É+SAMUEL.;EU+SOU+UM+DESENVOLVEDOR+WEB.;OBRIGADO+PELA+VISITA+%F0%9F%98%84.;E+VOLTE+SEMPRE+%F0%9F%98%83.">
 
 <br>
 <br>
