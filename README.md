@@ -61,7 +61,7 @@
     </p> 
     <p align = "center">
 <!--         <img src="https://activity-graph.herokuapp.com/graph?username=Samuel-Melo&bg_color=00000000&line=00FF00&color=878787&point=00000000&area=true&area_color=00FF00&hide_border=true(https://github.com/ashutosh00710/github-readme-activity-graph)" /> -->
-        [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Melo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+        <img src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Melo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)"/>
     </p> 
     <br>
     <br>
