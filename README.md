@@ -47,7 +47,7 @@
 
 <div>
     <p align = "center">   
-        <a href="https://wakatime.com"><img src="https://wakatime.com/share/@samuelMelo/f1f10ad2-2109-4bc3-906d-6185ea51f063.png" width="85%"/></a>
+        <a href="https://wakatime.com"><img src="https://wakatime.com/share/@samuelMelo/8b714b6b-cff4-4d27-ba46-2e03962560ef.png" width="85%"/></a>
         <br>
         <br>
         <br>
